@@ -1,0 +1,2 @@
+# FriendMusic2018
+基于WiFiDirect的FriendMusic最新版
